@@ -1,0 +1,3 @@
+%{
+  "kv": {:git, "https://github.com/Skulli/kv.git", "353367ba66e4cc52df62387186104e116906b834", []},
+}
